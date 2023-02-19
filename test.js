@@ -1,5 +1,3 @@
 
-
 const test = "test";
-alert ("Привіт!")
-blabalabalbalab
+alert ("Привіт всім!")
